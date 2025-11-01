@@ -1,4 +1,4 @@
-# Backend del Chatbot RAG con FastAPI
+# Backend del Chatbot RAG con FastAPI -TEST KEVIN
 
 Este proyecto contiene el backend para un chatbot inteligente, construido con FastAPI. Utiliza una arquitectura de **Retrieval-Augmented Generation (RAG)** para responder preguntas basándose en el contenido de un documento PDF, utilizando el modelo de lenguaje **Google Gemini**.
 
